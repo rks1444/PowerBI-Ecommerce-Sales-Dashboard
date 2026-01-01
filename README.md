@@ -38,11 +38,6 @@ PowerBI-Ecommerce-Sales-Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](dashboard_screenshot.png)
-
----
 
 ## 📈 Key Insights
 
